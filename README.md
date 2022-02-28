@@ -11,5 +11,7 @@ To better understand the reviews, I filtered the data to show only the relevant 
 
 
 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-
+* 202 out of the total 463 reviews from Vine member reviews were 5 stars. 
+* 12028 out of the 25079 tot non Vine member reviews were 5 stars.
+* 
  
